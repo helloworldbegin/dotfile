@@ -38,3 +38,4 @@
    let g:rainbow_active = 1
    set incsearch
    map sl :set splitright<CR>:vsplit 
+   set scrolloff=5
